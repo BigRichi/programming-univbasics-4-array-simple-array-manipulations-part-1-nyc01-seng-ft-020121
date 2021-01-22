@@ -16,10 +16,9 @@ def pop_with_args(array)
   end
 end
 
-def using_pop(array)
-  array.pop
+def using_shift(array)
+  array.shift
 end
-
 
 def shift_with_args(array)
   2.times do 
