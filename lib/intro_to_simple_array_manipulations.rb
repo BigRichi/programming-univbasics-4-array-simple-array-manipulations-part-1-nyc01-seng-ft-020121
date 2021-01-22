@@ -27,5 +27,5 @@ def shift_with_args(array)
   2.times do 
     new_arr << array.shift
   end
- # new_arr
+  new_arr
 end
